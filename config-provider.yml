@@ -59,8 +59,8 @@ spring:
       initial-size: 5
       max-total: 5
       max-wait-millis: 200
- 
-mybatis: 
+
+mybatis:
   config-location: classpath:mybatis/mybatis.cfg.xml
   type-aliases-package: com.atguigu.springcloud.entities
   mapper-locations: 
